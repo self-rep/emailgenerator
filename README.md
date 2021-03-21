@@ -1,5 +1,5 @@
-# emailgenerator
-random email generator
+# Email Generator
+Simple Random Email Generator
 
 
 # Usage 
